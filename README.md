@@ -1,4 +1,4 @@
-# Pattern Recognition Project
+# Titanic Survival Prediction
 
 ## Description
 
