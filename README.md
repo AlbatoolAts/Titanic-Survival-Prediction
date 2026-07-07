@@ -46,9 +46,9 @@ The models were evaluated using:
 - F1-score
 - ROC-AUC Curve
 
-## How to Run
+## Usage
 
-1. Install the required libraries:
+The complete implementation is available in the Jupyter Notebook:
+`Pattern_Recognition_Code.ipynb`
 
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn xgboost
+The notebook contains data preprocessing, exploratory data analysis, model training, and evaluation.
